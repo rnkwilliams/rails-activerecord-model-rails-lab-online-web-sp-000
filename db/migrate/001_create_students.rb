@@ -1,1 +1,1 @@
-class 
+class CreateStudents < ActiveRecord::Migration
